@@ -9,7 +9,10 @@ The data set encompasses three years of operational metrics:
 - **2024:** Current performance indicators showcasing ongoing trends and areas needing attention
 
 ### Data Structure
-ERD Diagram
+
+![image alt](images/ERD_Diagram-removebg-preview light grey.png)
+![image alt](images/ERD_Diagram-removebg-preview.png)
+![image alt](images/ERD_Diagram.PNG)
 ### 3. Gross Profit Analysis
 #### 3.1 Yearly Trends
 - **2022:** Gross Profit stood at **5.42M** with a profit percentage of **40.09%**.
