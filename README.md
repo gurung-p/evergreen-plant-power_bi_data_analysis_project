@@ -78,7 +78,7 @@ Variations in revenue correlate with changes in pricing strategy or market condi
 Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
 - The collected data is complete and correct.
 - According to the dataset, sales data for 2024 is available uo to April. Therefore, it has been assumed that the business year remains in progress.
-- Approximately 2% had some null values. To ensure clarity, the data has been filtered appropriately in the report.
+- Null values in the dataset were cleaned up for clarity and reporting as appropriate.  
 
 ## References 
 
