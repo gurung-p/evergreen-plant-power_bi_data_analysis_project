@@ -39,7 +39,7 @@ Monthly fluctuations revealed variations in profit margins and indicate seasonal
 
 Significant fluctuations observed in specific months could indicate shifts in demand or supply chain disruptions.
 
-![iage alt]()
+![image alt](images/2023_Quantity_Sold.PNG)
 
 
 ## Sales Revenue Analysis
@@ -52,7 +52,7 @@ Significant fluctuations observed in specific months could indicate shifts in de
 
 Variations in revenue correlate with changes in pricing strategy or market conditions.
 
-![iage alt]()
+![image alt]()
 
 ## Product Segmentation
 
