@@ -56,11 +56,9 @@ Variations in revenue correlate with changes in pricing strategy or market condi
 
 ## Product Segmentation
 
-- Analysis shows that sales are reliant on indoor, landscape, and outdoor products.
-- Indoor products consistently show higher sales volume compared to outdoor and landscape products.
+- Analysis shows that sales are reliant on Indoor, Outdoor and Landscape products.
+- Indoor products consistently show higher sales volume compared to Outdoor and Landscape products.
 - Gross profit is largely driven by the same product segmentation patterns observed in sales.
-
-![iage alt]()
 
 ## Comparative Insights
 
