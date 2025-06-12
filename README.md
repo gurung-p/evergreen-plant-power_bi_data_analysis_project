@@ -1,7 +1,7 @@
 # Plant Co. - Data Analysis
 
 ## Executive Summary
-The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 
+Plant Co. was established in 2022 that sells indoor, landscape, and outdoor products.The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. Business year for 2024 remains in progress. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 
 ### Data Overview
 The data set encompasses three years of operational metrics:
 - **2022:** Baseline year with initial performance data
@@ -60,6 +60,21 @@ The data set encompasses three years of operational metrics:
 - **Product Strategy:** Reassess product offerings, focusing more on profitable segments.
 - **Cost Management:** Prioritize cost-reduction strategies while maintaining product quality to enhance profit margins.
 
+## Assumptions and Caveats
 
+Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+- The collected data is complete and correct.
+- According to the dataset, sales data for 2024 is available uo to April. Therefore, it has been assumed that the business year remains in progress.
+- Approximately 2% had some null values. To ensure clarity, the data has been filtered appropriately in the report.
+  
+---
+
+## References 
+
+Here are the references that contributed to the completion of this project.
+
+- [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning.
+  
+- [Mo Chen](https://www.youtube.com/@mo-chen) A Data Analytics Manager and Content Creator who produces insightful and educational videos to help stay ahead and remain competitive in the ever-evolving data industry.
 
 
