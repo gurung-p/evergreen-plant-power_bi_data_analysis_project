@@ -25,7 +25,7 @@ The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx
 - **2023:** A decline was noted with Gross Profit falling to **$5.15M** and a profit margin drop to **39.62%**.
 - **2024 (up to April):** Gross Profit remains at **$1.40M** with **39.15%**.
   
-Consistent monthly profit margins observed throughout 2022 in the screenshot below. The top three countries contributing to profit were China, Philippines and Brazil. And contribution from product category was: Outdoor ($1.85M), Indoor ($1.82M) and Landscape ($1.75M).
+Consistent monthly profit margins observed throughout 2022 in the screenshot below. The top three countries contributing to profit were **China**, **Philippines** and **Brazil**. And contribution from product category was: **Outdoor ($1.85M)**, **Indoor ($1.82M)** and **Landscape ($1.75M)**.
 
 ![iage alt](images/2022_Gross_Profit.PNG)
 
