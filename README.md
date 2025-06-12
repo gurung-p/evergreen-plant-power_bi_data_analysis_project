@@ -35,7 +35,7 @@ Consistent monthly profit margins observed throughout 2022 as per screenshot bel
 
 - **2022:** Quantity sold was **538.61K**. The top three countries were **China**, **Philippines** and **Brazil**. Quantity sold by product category were: **Outdoor (182K)**, **Indoor (180K)** and **Landscape (177K)**
 - **2023:** Sold quantity increased to **555.66K**. The quantity sales figures by product category were: **Outdoor (207K)**, **Indoor (175K)** and **Landscape (174K)**. The top three countries were **Portugal**, **Canada**, and the **Philippines** as per screenshot below.
-- **2024 (up to April):** Quantity sold remains at **148.47K** till date. Selling most quantity to **Poland (4.07K)** with product category **Landscape (54K)** is in the lead.
+- **2024 (up to April):** Quantity sold remains at **148.47K** till date. Selling most quantity to **Poland (4.07K)** with product category **Landscape (54K)** in the lead.
   
  Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
 
