@@ -46,7 +46,7 @@ The 2023 quantity sales figures by product category were as follows: **Outdoor (
 
 ### Yearly Trends
 
-- **2022:** Sales reached **13.51M**.
+- **2022:** Sales reached **13.51M**. The top three countries contributing to sales were **China**, **Brazil** and the **Philippines**.
 - **2023:** A noticeable decrease in sales to **13.00M** was recorded. Sales exhibited strong performance from March to June, whereas other months experienced a notable decline.
 - **2024 (up to April):** Revenue dipped further to **3.57M**.
 
