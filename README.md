@@ -1,7 +1,7 @@
 # Plant Co. - Data Analysis
 
 ## Executive Summary
-Plant Co. was established in 2022 that sells indoor, landscape, and outdoor products.The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
+Plant Co. was established in 2022 that sells indoor, landscape, and outdoor products. The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
 
 ### Data Overview
 The data set encompasses three years of operational metrics:
