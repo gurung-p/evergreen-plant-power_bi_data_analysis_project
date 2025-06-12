@@ -10,7 +10,7 @@ The data set encompasses three years of operational metrics:
 
 ### Data Structure
 
-![image alt](images/ERD_Diagram-removebg-preview light grey.png)
+![image alt](images/ERD_Diagram_light_grey.png)
 ![image alt](images/ERD_Diagram-removebg-preview.png)
 ![image alt](images/ERD_Diagram.PNG)
 ### 3. Gross Profit Analysis
