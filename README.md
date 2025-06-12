@@ -9,6 +9,8 @@ The data set encompasses three years of operational metrics:
 - **2023:** Year of adjustment with notable shifts in profitability and sales
 - **2024:** Current performance indicators showcasing ongoing trends and areas needing attention
 
+An interactive Power BI Dashboard can be downloaded [here](power_bi/Evergreen_Plant_Data_Analysis.pbix)
+
 ## Data Structure & Initial Checks
 
 Evergreen Plant's database structure consists of four fact and dimension tables: **Sales**, **Products**, **Account** & **Date**. Prior to beginning the analysis, a variety of checks were conducted for quality control. Using Power BI, the data was cleaned, organised, and prepared including familiarization with the datasets.
