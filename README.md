@@ -1,7 +1,7 @@
-# Plant Co. - Data Analysis
+# Evergreen Plant - Data Analysis
 
 ## Executive Summary
-Plant Co. was established in 2022 that sells **Indoor**, **Landscape**, and **Outdoor** products worldwide. The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
+Evergreen Plant was established in 2022 that sells **Indoor**, **Landscape**, and **Outdoor** products worldwide. The analysis offers an overview of Evergreen Plant's performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how the business has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
 
 ## Data Overview
 The data set encompasses three years of operational metrics:
@@ -11,7 +11,7 @@ The data set encompasses three years of operational metrics:
 
 ## Data Structure & Initial Checks
 
-Plant Co.'s database structure consists of four fact and dimension tables: **Sales**, **Products**, **Account** & **Date**. Prior to beginning the analysis, a variety of checks were conducted for quality control. Using Power BI, the data was cleaned, organised, and prepared including familiarization with the datasets.
+Evergreen Plant's database structure consists of four fact and dimension tables: **Sales**, **Products**, **Account** & **Date**. Prior to beginning the analysis, a variety of checks were conducted for quality control. Using Power BI, the data was cleaned, organised, and prepared including familiarization with the datasets.
 
 The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx)
 
