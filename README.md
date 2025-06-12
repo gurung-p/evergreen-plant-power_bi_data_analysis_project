@@ -23,6 +23,8 @@ The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx
 - **2023:** A decline was noted with Gross Profit falling to **5.15M** and a profit margin drop to **39.62%**.
 - **2024 (up to April):** Gross Profit continued to dip to **1.40M** with **39.15%**.
 
+![iage alt](images/2022_Gross_Profit.PNG)
+
 #### 3.2 Monthly Trends
 - Monthly fluctuations revealed variations in profit margins and indicate seasonality or other influencing factors.
 **Visualization 1: Yearly Gross Profit Trend**
