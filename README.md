@@ -13,7 +13,7 @@ The data set encompasses three years of operational metrics:
 
 Plant Co.'s database structure consists of three tables: Sales, Product, Accounts & Date Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organised, and prepared including familiarization with the datasets.
 
-The raw dataset in Excel can be downloaded here
+The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx)
 
 ![image alt](images/ERD_Diagram.PNG)
 
