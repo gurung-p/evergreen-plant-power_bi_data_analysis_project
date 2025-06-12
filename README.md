@@ -23,7 +23,7 @@ The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx
 
 - **2022:** Gross Profit stood at **$5.42M** with a profit percentage of **40.09%**. The top three countries contributing to profit were **China**, **Brazil** and **Philippines**. Contribution from product category were: **Outdoor ($1.85M)**, **Indoor ($1.82M)** and **Landscape ($1.75M)**.
 - **2023:** A decline was noted with Gross Profit falling to **$5.15M** and a profit margin drop to **39.62%**. The top three countries contributing to profit were **Portugal**, **Philippines** and **Canada**. Contribution from product category were: **Outdoor ($1.93M)**, **Indoor ($1.58M)** and **Landscape ($1.63M)**.
-- **2024 (up to April):** Gross Profit remains at **$1.40M** with **39.15%**, with **Outdoor ($0.54M)** being the highest selling category.
+- **2024 (up to April):** Gross Profit remains at **$1.40M, 39.15%**, **Outdoor ($0.54M)** being the highest selling category, with **Sweden ($37.85K)** contributing to profit the most.
   
 Consistent monthly profit margins observed throughout 2022 as per screenshot below. 
 
@@ -35,7 +35,7 @@ Consistent monthly profit margins observed throughout 2022 as per screenshot bel
 
 - **2022:** Quantity sold was **538.61K**. The top three countries were **China**, **Philippines** and **Brazil**. Quantity sold by product category were: **Outdoor (182K)**, **Indoor (180K)** and **Landscape (177K)**
 - **2023:** Sold quantity increased to **555.66K**. The quantity sales figures by product category were: **Outdoor (207K)**, **Indoor (175K)** and **Landscape (174K)**. The top three countries were **Portugal**, **Canada**, and the **Philippines** as per screenshot below.
-- **2024 (up to April):** Quantity sold remains at **148.47K** till date. Product category **Landscape (54K)** is in the lead.
+- **2024 (up to April):** Quantity sold remains at **148.47K** till date. Selling most quantity to **Poland (4.07K)** with product category **Landscape (54K)** is in the lead.
   
  Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
 
