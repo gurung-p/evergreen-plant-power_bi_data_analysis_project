@@ -37,7 +37,7 @@ Consistent monthly profit margins observed throughout 2022.
 - **2023:** Sold quantity increased to **555.66K**.
 - **2024 (up to April):** Quantity dropped to **148.47K**.
 
-Noticeable variations in certain months may suggest changes in demand or disruptions in the supply chain, including seasonal influences
+Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
 
 ![image alt](images/2023_Quantity_Sold.PNG)
 
