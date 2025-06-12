@@ -21,11 +21,11 @@ The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx
 
 ### Yearly Trends
 
-- **2022:** Gross Profit stood at **5.42M** with a profit percentage of **40.09%**.
-- **2023:** A decline was noted with Gross Profit falling to **5.15M** and a profit margin drop to **39.62%**.
-- **2024 (up to April):** Gross Profit remains at **1.40M** with **39.15%**.
+- **2022:** Gross Profit stood at **$5.42M** with a profit percentage of **40.09%**.
+- **2023:** A decline was noted with Gross Profit falling to **$5.15M** and a profit margin drop to **39.62%**.
+- **2024 (up to April):** Gross Profit remains at **$1.40M** with **39.15%**.
   
-Consistent monthly profit margins observed throughout 2022 in the screenshot below. The top three countries contributing to profit were China, Philippines and Brazil.
+Consistent monthly profit margins observed throughout 2022 in the screenshot below. The top three countries contributing to profit were China, Philippines and Brazil. And contribution from product category was: Outdoor ($1.85M), Indoor ($1.82M) and Landscape ($1.75M).
 
 ![iage alt](images/2022_Gross_Profit.PNG)
 
