@@ -1,1 +1,63 @@
-# plant-co-power_bi_data_analysis_project
+# Plant Co. - Data Analysis
+
+## Executive Summary
+The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 
+### Data Overview
+The data set encompasses three years of operational metrics:
+- **2022:** Baseline year with initial performance data
+- **2023:** Year of adjustment with notable shifts in profitability and sales
+- **2024:** Current performance indicators showcasing ongoing trends and areas needing attention
+
+### Data Structure
+ERD Diagram
+### 3. Gross Profit Analysis
+#### 3.1 Yearly Trends
+- **2022:** Gross Profit stood at **5.42M** with a profit percentage of **40.09%**.
+- **2023:** A decline was noted with Gross Profit falling to **5.15M** and a profit margin drop to **39.62%**.
+- **2024 (up to April):** Gross Profit continued to dip to **1.40M** with **39.15%**.
+
+#### 3.2 Monthly Trends
+- Monthly fluctuations revealed variations in profit margins and indicate seasonality or other influencing factors.
+**Visualization 1: Yearly Gross Profit Trend**
+
+
+### 4. Quantity Sold Analysis
+#### 4.1 Yearly Trends
+- **2022:** Quantity sold was **538.61K**.
+- **2023:** Sold quantity increased to **555.66K**.
+- **2024 (up to April):** Quantity dropped to **148.47K**.
+
+#### 4.2 Monthly Trends
+- Significant fluctuations observed in specific months could indicate shifts in demand or supply chain disruptions.
+
+**Visualization 2: Yearly Quantity Trend**
+### 5. Sales Revenue Analysis
+#### 5.1 Yearly Trends
+- **2022:** Sales reached **13.51M**.
+- **2023:** A noticeable decrease in sales to **13.00M** was recorded.
+- **2024 (up to April):** Revenue dipped further to **3.57M**.
+
+#### 5.2 Monthly Trends
+- Variations in revenue correlate with changes in pricing strategy or market conditions.
+**Visualization 3: Yearly Sales Trend**
+### Product Segmentation
+- Analysis shows that sales are reliant on indoor, landscape, and outdoor products.
+- Indoor products consistently show higher sales volume compared to outdoor and landscape products.
+- Gross profit is largely driven by the same product segmentation patterns observed in sales.
+
+
+
+### 6. Comparative Insights
+- **Year-Over-Year Changes:** Compared to 2022, both gross profit and sales revenue show a decline in 2023 and 2024.
+- **Performance Consistency:** The overall decline in profit margin suggests potential structural inefficiencies or increased costs.
+  
+### 7. Recommendations
+- **Market Analysis & Research:** Conduct a thorough market analysis to identify potential drivers behind declines in sales and profit. And  conduct market research to identify shifts in customer preferences.
+- **Marketing Initiatives:** Increase marketing efforts, especially focusing on underperforming regions and products.
+- **Sales Strategy Re-evaluation:** Reassess sales strategies to capture competitive market segments effectively.
+- **Product Strategy:** Reassess product offerings, focusing more on profitable segments.
+- **Cost Management:** Prioritize cost-reduction strategies while maintaining product quality to enhance profit margins.
+
+
+
+
