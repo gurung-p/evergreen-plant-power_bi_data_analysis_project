@@ -3,13 +3,17 @@
 ## Executive Summary
 Plant Co. was established in 2022 that sells indoor, landscape, and outdoor products. The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
 
-### Data Overview
+## Data Overview
 The data set encompasses three years of operational metrics:
 - **2022:** Baseline year with initial performance data
 - **2023:** Year of adjustment with notable shifts in profitability and sales
 - **2024:** Current performance indicators showcasing ongoing trends and areas needing attention
 
-### Data Structure
+## Data Structure & Initial Checks
+
+Plant Co.'s database structure consists of three tables: Sales, Product, Accounts & Date Prior to beginning the analysis, a variety of checks were conducted for quality control. The data was cleaned, organised, and prepared including familiarization with the datasets.
+
+The raw dataset in Excel can be downloaded here
 
 ![image alt](images/ERD_Diagram.PNG)
 
