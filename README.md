@@ -90,5 +90,5 @@ Here are the references that contributed to the completion of this project.
   
 - [Mo Chen](https://www.youtube.com/@mo-chen) A Data Analytics Manager and Content Creator who produces insightful and educational videos to help stay ahead and remain competitive in the ever-evolving data industry.
   
-- [Pragmatic Works](https://www.youtube.com/@PragmaticGuides) Microsoft-focused training company, led by Microsoft MVPs, industry experts, and authors. Offers courses on Power BI, Power Apps, Azure, SQL Server, and more.
+- [Pragmatic Works](https://www.youtube.com/@PragmaticWorks) Microsoft-focused training company, led by Microsoft MVPs, industry experts, and authors. Offers courses on Power BI, Power Apps, Azure, SQL Server, and more.
 
