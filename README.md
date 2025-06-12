@@ -89,5 +89,6 @@ Here are the references that contributed to the completion of this project.
 - [DataCamp](https://www.datacamp.com/) DataCamp offers interactive R, Python, Sheets, SQL and shell courses. All on topics in data science, statistics and machine learning.
   
 - [Mo Chen](https://www.youtube.com/@mo-chen) A Data Analytics Manager and Content Creator who produces insightful and educational videos to help stay ahead and remain competitive in the ever-evolving data industry.
-
+  
+- [Pragmatic Works](https://www.youtube.com/@PragmaticGuides) Microsoft-focused training company focused, led by Microsoft MVPs, industry experts, and authors. Offers courses on Power BI, Power Apps, Azure, SQL Server, and more.
 
