@@ -37,7 +37,7 @@ Consistent monthly profit margins observed throughout 2022 in the screenshot bel
 - **2023:** Sold quantity increased to **555.66K**.
 - **2024 (up to April):** Quantity dropped to **148.47K**.
 
-Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
+The 2023 quantity sales figures by product category were as follows: **Outdoor (207K)**, **Indoor (175K)** and **Landscape (174K)**. The top three countries were Portugal, Canada, and the Philippines. Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
 
 ![image alt](images/2023_Quantity_Sold.PNG)
 
