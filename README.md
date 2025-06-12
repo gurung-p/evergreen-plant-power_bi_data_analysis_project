@@ -52,7 +52,7 @@ Noticeable variations in certain months may suggest seasonal influences includin
 
 Variations in revenue correlate with changes in pricing strategy or market conditions.
 
-![image alt]()
+![image alt](images/2023_Sales.PNG)
 
 ## Product Segmentation
 
