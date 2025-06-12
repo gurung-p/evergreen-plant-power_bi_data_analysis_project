@@ -1,7 +1,7 @@
 # Plant Co. - Data Analysis
 
 ## Executive Summary
-Plant Co. was established in 2022 that sells indoor, landscape, and outdoor products worldwide. The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
+Plant Co. was established in 2022 that sells **Indoor**, **Landscape**, and **Outdoor** products worldwide. The analysis offers an overview of Plant Co.'s performance from 2022 to 2024 across three key metrics: Gross Profit, Quantity Sold, and Sales Revenue. With visualizations supporting the findings, it becomes clear how Plant Co. has experienced fluctuations over the years, revealing insights into overall financial health and operational efficiency. 2024 business year remains in progress.
 
 ## Data Overview
 The data set encompasses three years of operational metrics:
@@ -46,7 +46,7 @@ Consistent monthly profit margins observed throughout 2022 as per screenshot bel
 
 ### Yearly Trends
 
-- **2022:** Sales reached **13.51M**. The top three countries contributing to sales were **China**, **Brazil** and the **Philippines**. Sales figures by product category were: **Outdoor ($4.7M)**, Indoor **($4.5M)** and Landscape **($4.3M)**.
+- **2022:** Sales reached **13.51M**. The top three countries contributing to sales were **China**, **Brazil** and the **Philippines**. Sales figures by product category were: **Outdoor ($4.7M)**, **Indoor ($4.5M)** and **Landscape ($4.3M)**.
 - **2023:** A noticeable decrease in sales to **13.00M** was recorded. Sales exhibited strong performance from March to June, whereas other months experienced a notable decline. Sales figures by product category were: **Outdoor ($4.8M)**, Indoor **($4M)** and Landscape **($4.2M)**. The top three countries contributing to sales were **Portugal**, **Philippines** and **Colombia** as per screenshot below. 
 - **2024 (up to April):** Revenue for the business year remains at **3.57M**. **Thailand** is currently topping the sales at **$87.59K**, with the **Outdoor** category leading the way at **$1.35M**.
 
