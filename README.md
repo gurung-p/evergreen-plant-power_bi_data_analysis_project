@@ -33,11 +33,11 @@ Consistent monthly profit margins observed throughout 2022 as per screenshot bel
 
 ### Yearly Trends
 
-- **2022:** Quantity sold was **538.61K**.
-- **2023:** Sold quantity increased to **555.66K**.
-- **2024 (up to April):** Quantity dropped to **148.47K**.
-
-The 2023 quantity sales figures by product category were: **Outdoor (207K)**, **Indoor (175K)** and **Landscape (174K)**. The top three countries were **Portugal**, **Canada**, and the **Philippines** as per screenshot below. Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
+- **2022:** Quantity sold was **538.61K**. The top three countries were **China**, **Philippines** and **Brazil**. Quantity sold by product category were: **Outdoor (182K)**, **Indoor (180K)** and **Landscape (177K)**
+- **2023:** Sold quantity increased to **555.66K**. The quantity sales figures by product category were: **Outdoor (207K)**, **Indoor (175K)** and **Landscape (174K)**. The top three countries were **Portugal**, **Canada**, and the **Philippines** as per screenshot below.
+- **2024 (up to April):** Quantity sold remains at **148.47K** till date. Product category **Landscape (54K)** is in the lead.
+  
+ Noticeable variations in certain months may suggest seasonal influences including changes in demand or disruptions in the supply chain.
 
 ![image alt](images/2023_Quantity_Sold.PNG)
 
