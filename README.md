@@ -13,7 +13,7 @@ The data set encompasses three years of operational metrics:
 
 Evergreen Plant's database structure consists of four fact and dimension tables: **Sales**, **Products**, **Account** & **Date**. Prior to beginning the analysis, a variety of checks were conducted for quality control. Using Power BI, the data was cleaned, organised, and prepared including familiarization with the datasets.
 
-The raw dataset in Excel can be downloaded [here](datasets/Plant_Co_Dataset.xlsx)
+The raw dataset in Excel can be downloaded [here](datasets/Evergreen_Plant_Dataset.xlsx)
 
 ![image alt](images/ERD_Diagram.PNG)
 
